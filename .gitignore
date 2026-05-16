@@ -1,0 +1,19 @@
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# Extracted folders
+extracted/
+compressed-extract/
+zip-extracted/
+scripts-backup/
+
+# Temporary files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
